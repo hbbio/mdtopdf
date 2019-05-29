@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/mandolyte/mdtopdf"
+	"github.com/hbbio/mdtopdf"
 )
 
 var input = flag.String("i", "", "Input text filename; default is os.Stdin")
